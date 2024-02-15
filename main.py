@@ -44,3 +44,6 @@ if __name__ == '__main__':
     address=fake.address()
 
     remove_contact(10)
+    
+    
+    
